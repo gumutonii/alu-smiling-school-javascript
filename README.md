@@ -1,1 +1,1 @@
-# alu-smiling-school-javascript
+# Build a web page in javascript
